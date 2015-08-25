@@ -7,6 +7,7 @@ Some concrete suggestions for people who would like to work on projects that wou
 2 - An online tool similar to zzt with sharing facilities similar to puzzlescript.
 
 3 - An online version of the puredata script for generating footstep sounds - http://www.obiwannabe.co.uk/html/papers/pdcon2007/footsteps-poly.pd
+(or some other good tool for generating footstep sounds)
 
 4 - A paint tool for drawing skyboxes directly.
 
