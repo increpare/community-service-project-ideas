@@ -1,6 +1,4 @@
-===================================
-Community Service Project Ideas
-===================================
+<h1>Community Service Project Ideas</h1>
 
 some concrete suggestions for people who would like to work on projects that would benefit the game making community as a whole:
 
