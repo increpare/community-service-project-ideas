@@ -1,6 +1,6 @@
 <h1>Community Service Project Ideas</h1>
 
-some concrete suggestions for people who would like to work on projects that would benefit the game making community as a whole:
+Some concrete suggestions for people who would like to work on projects that would benefit the game making community as a whole:
 
 1 - an online tool similar to klik n play with sharing facilities similar to puzzlescript
 
