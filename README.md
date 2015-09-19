@@ -12,3 +12,5 @@ Some concrete suggestions for people who would like to work on projects that wou
 4 - A paint tool for drawing skyboxes directly.
 
 5 - An online tool like renpy with sharing facilities similar to puzzlescript.
+
+6 - Something like knytt stories :D
